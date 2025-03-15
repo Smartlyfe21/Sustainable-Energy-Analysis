@@ -1,7 +1,7 @@
 # Sustainable Energy and Environmental Data Analysis
 
 ## Overview
-This project focuses on analyzing energy consumption, environmental impact, and electricity access across different countries and regions. By leveraging machine learning models and data analysis techniques, we aim to identify opportunities for improving energy efficiency, reducing environmental impacts, and enhancing electricity access. The insights gained can inform better policy decisions and promote sustainable practices globally.
+This project focuses on analyzing energy consumption, environmental impact, and electricity access across different countries and regions. By leveraging machine learning models and data analysis techniques, i will aim at identifying opportunities for improving energy efficiency, reducing environmental impacts, and enhancing electricity access. The insights gained can inform better policy decisions and promote sustainable practices globally.
 
 ## Key Analyses
 
